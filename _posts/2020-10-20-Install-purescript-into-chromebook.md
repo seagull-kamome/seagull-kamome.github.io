@@ -1,6 +1,5 @@
-
 ---
-title: Install purescript environment on Chromebook.
+title: "Install purescript environment on Chromebook."
 author: "Hattori, Hiroki"
 layout: "post"
 tag: ["Chromebook", "Purescript"]
