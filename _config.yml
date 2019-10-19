@@ -8,5 +8,5 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: "my-site"
+      layout: "default"
 
