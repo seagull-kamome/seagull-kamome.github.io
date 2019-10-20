@@ -11,7 +11,7 @@ layout: "default"
 
 ## 技術的な事のノート
 
-- [cortex系cpuについて、ノートと独り言](./MyNotebook/Cortex.html)
+- [cortex系cpuについて、ノートと独り言](./MyNotebook/CortexMemo)
 - プログラム言語について
 
 
@@ -26,7 +26,7 @@ layout: "default"
 
 - SUZUKI カプチーノについて
 - どうでもいい日記
-- [TODO,物欲関係のリスト](./todo.html)
+- [TODO,物欲関係のリスト](./TODO)
 
 ## Contact
 
