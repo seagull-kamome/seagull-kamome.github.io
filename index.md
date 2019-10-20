@@ -32,5 +32,5 @@ layout: "default"
 
 - github: [seagull-kamome](http://github.com/seagull-kamome/)
 - twitter: 凍結されました
-- mastdon: seagill@mstdn.jp
+- mastdon: seagull@mstdn.jp
 
