@@ -15,14 +15,14 @@ layout: "default"
 - プログラム言語について
 
 
-## 自分のリポジトリ
+## My projects
 
 - carrotos
 - nanospec
 
 　その他放置リポジトリが幾つか。
 
-## その他
+## Etc.
 
 - SUZUKI カプチーノについて
 - どうでもいい日記
@@ -30,7 +30,7 @@ layout: "default"
 
 ## Contact
 
-github: [seagull-kamome](http://github.com/seagull-kamome/)
-twitter: 凍結されました
-mastdon: seagill@mstdn.jp
+- github: [seagull-kamome](http://github.com/seagull-kamome/)
+- twitter: 凍結されました
+- mastdon: seagill@mstdn.jp
 
