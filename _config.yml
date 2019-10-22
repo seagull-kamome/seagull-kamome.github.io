@@ -1,7 +1,10 @@
 timezone: Asia/Tokyo
 safe: true
 theme: jekyll-theme-cayman
-
+google_analytics: UA-185571-3
+url: https://seagull-kamome.github.io/
+plugins:
+    - jekyll-sitemap
 defaults:
   -
     scope:
