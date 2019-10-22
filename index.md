@@ -12,6 +12,7 @@ layout: "default"
 ## 技術的な事のノート
 
 - [cortex系cpuについて、ノートと独り言](./MyNotebook/CortexMemo)
+- [FreeRTOS評価ノート](./MyNotebook/FreeRTOSMemo)
 - プログラム言語について
 
 
