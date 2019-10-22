@@ -1,6 +1,7 @@
 ---
 title: "Cortexメモ"
-layout: "page"
+date: 2019-10-22
+layout: "post"
 author: Hattori, Hiroki
 tags: [ "EmbededProgramming", "ARM", "Cortex-M" ]
 ---
