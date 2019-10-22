@@ -1,6 +1,6 @@
 ---
 title: "Cortexメモ"
-layout: "default"
+layout: "page"
 author: Hattori, Hiroki
 tags: [ "EmbededProgramming", "ARM", "Cortex-M" ]
 ---
