@@ -5,6 +5,8 @@ google_analytics: UA-185571-3
 url: https://seagull-kamome.github.io/
 plugins:
     - jekyll-sitemap
+site:
+  - logo: images/P_20190104_130410_vHDR_On - Edited.jpg
 defaults:
   -
     scope:
