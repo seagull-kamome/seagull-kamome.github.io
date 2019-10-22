@@ -3,10 +3,9 @@ safe: true
 theme: jekyll-theme-minimal
 google_analytics: UA-185571-3
 url: https://seagull-kamome.github.io/
+logo: "images/P_20190104_130410_vHDR_On - Edited.jpg"
 plugins:
     - jekyll-sitemap
-site:
-  - logo: images/P_20190104_130410_vHDR_On - Edited.jpg
 defaults:
   -
     scope:
