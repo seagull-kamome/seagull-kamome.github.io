@@ -2,6 +2,7 @@
 title: "FreeRTOS 評価ノート"
 layout: "post"
 date: 2019-10-21
+author: Hattori, Hiroki
 ---
 
 ## Binary Semaphore
