@@ -2,6 +2,7 @@
 titie: "memallocプロジェクトの今後"
 layout: "post"
 tag: ["ProjectMemalloc"]
+categories: ["blog"]
 ---
 
 # memallocプロジェクトの今後
