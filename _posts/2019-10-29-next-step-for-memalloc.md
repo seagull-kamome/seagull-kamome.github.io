@@ -1,5 +1,6 @@
 ---
 titie: "memallocプロジェクトの今後"
+author: "Hattori, Hiroki"
 layout: "post"
 tag: ["ProjectMemalloc"]
 categories: ["blog"]
