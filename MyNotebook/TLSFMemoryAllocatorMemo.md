@@ -2,6 +2,8 @@
 title: "TLSFアロケータ実装メモ"
 date: 2019-10-27
 tag: ["Algorhytm", "C", "C++", "Embeded"]
+layout: "post"
+author: "Hattori, Hiroki"
 ---
 
 ## はじめに
