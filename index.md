@@ -18,8 +18,8 @@ layout: "default"
 
 ## My projects
 
-- carrotos
-- nanospec
+- [carrotos](https://github/com/seagull-kamome/carrotos)
+- [nanocspec](https://github.com/seagull-kamome/noncspec)
 - [memalloc](http://github.com/seagull-kamome/memalloc)
 
 　その他放置リポジトリが幾つか。
