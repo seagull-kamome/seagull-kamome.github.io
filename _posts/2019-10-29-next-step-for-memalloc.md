@@ -6,7 +6,7 @@ tag: ["ProjectMemalloc"]
 categories: ["blog"]
 ---
 
-# memallocプロジェクトの今後
+## memallocプロジェクトの今後
 
 　とりあえずTLSFが動くようになったっぽいので、やるかどうかは別として
  この先何ができるか考えてみよう。
