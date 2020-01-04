@@ -19,8 +19,8 @@ layout: "default"
 ## My projects
 
 - [carrotos](https://github/com/seagull-kamome/carrotos)
-- [nanocspec](https://github.com/seagull-kamome/noncspec)
-- [memalloc](http://github.com/seagull-kamome/memalloc)
+- [nanocspec](https://github.com/seagull-kamome/nanocspec)
+- [memalloc](https://github.com/seagull-kamome/memalloc)
 
 　その他放置リポジトリが幾つか。
 
@@ -32,7 +32,7 @@ layout: "default"
 
 ## Contact
 
-- github: [seagull-kamome](http://github.com/seagull-kamome/)
+- github: [seagull-kamome](https://github.com/seagull-kamome/)
 - twitter: 凍結されました
 - mastdon: seagull@mstdn.jp
 
