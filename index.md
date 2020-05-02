@@ -27,7 +27,7 @@ layout: "default"
 ## Etc.
 
 - SUZUKI カプチーノについて
-- どうでもいい日記
+- [どうでもいい日記](./blog/)
 - [TODO,物欲関係のリスト](./TODO)
 
 ## Contact
